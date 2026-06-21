@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Private / auth-only routes — don't index
+Disallow: /dashboard
+Disallow: /profile
+Disallow: /history
+Disallow: /chat
+Disallow: /quiz
+Disallow: /practice
+Disallow: /leaderboard
+Disallow: /reset-password
+Disallow: /forgot-password
+Disallow: /auth/
+
+Sitemap: https://mathsmind.lovable.app/sitemap.xml

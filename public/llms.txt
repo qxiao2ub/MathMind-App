@@ -1,0 +1,22 @@
+# MathMind
+
+> MathMind is an AI-powered maths tutor aligned to the Victorian Curriculum for Year 9, Year 10, and VCE (Year 11–12) students in Australia. Structured lessons, interactive quizzes, practice questions, and instant AI explanations.
+
+## Pages
+
+- [Home](/): Overview of MathMind, features, testimonials, and quick access to learning resources.
+- [Learn](/learn): Browse the full curriculum by year level — Year 9, Year 10, Year 11 General, Year 11 Methods, Year 11 Specialist, Year 12 General, Year 12 Methods, and Year 12 Specialist.
+- [Quiz](/quiz): Take topic-specific quizzes and category quizzes with instant feedback and mastery tracking.
+- [Practice](/practice): Generate personalised practice sessions by topic, difficulty, and question count.
+- [Community](/community): Ask and answer maths questions, share worked solutions, and discuss VCE mathematics topics.
+
+## Optional
+
+- [Year 9 Topics](/year/9): Number and Algebra, Measurement and Geometry, Statistics and Probability.
+- [Year 10 Topics](/year/10): Number and Algebra, Measurement and Geometry, Statistics and Probability, 10A Extension.
+- [Year 11 General](/year/11-general): VCE Unit 1/2 General Mathematics topics.
+- [Year 11 Methods](/year/11-methods): VCE Unit 1/2 Mathematical Methods topics.
+- [Year 11 Specialist](/year/11-specialist): VCE Unit 1/2 Specialist Mathematics topics.
+- [Year 12 General](/year/12-general): VCE Unit 3/4 General Mathematics topics.
+- [Year 12 Methods](/year/12-methods): VCE Unit 3/4 Mathematical Methods topics.
+- [Year 12 Specialist](/year/12-specialist): VCE Unit 3/4 Specialist Mathematics topics.

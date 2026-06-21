@@ -1,0 +1,7 @@
+project_id = "oblfwsjpffwnbcxwiosn"
+
+[functions.quiz-summary]
+verify_jwt = false
+
+[functions.validate-math-image]
+verify_jwt = false
